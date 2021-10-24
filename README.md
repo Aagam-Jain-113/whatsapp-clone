@@ -1,5 +1,6 @@
 # Whatsupchat
   A web-chat app similar to whatsapp.
+  [Live](https://whatsupchat.netlify.app) 
 
 ## Technology Stack: 
   <p float="left">
